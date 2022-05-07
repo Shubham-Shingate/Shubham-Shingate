@@ -32,7 +32,7 @@
 <div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-shingate&show_icons=true&locale=en&layout=compact" alt="shubham-shingate" /></p>
 </div>
-<div>
+<div style="margin-top: 10px;">
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-shingate&show_icons=true&locale=en" alt="shubham-shingate" /></p>
 </div>
 <div>
