@@ -1,7 +1,7 @@
-<h1 align="left">Hi 👋, I'm Shubham Shingate</h1>
+<h2 align="left">Hi 👋, I'm Shubham Shingate</h2>
 
 <h3 align="left">About Me:</h3>
-<h3 align="left">Forward-thinking Software Engineer with background of working effectively in dynamic environments. Fluent in Java, Spring, AWS & Microservices. Experienced in software development within Banking & Insurance domains. Proud team player focused on achieving project objectives with speed and accuracy.</h3>
+<p align="left">Forward-thinking Software Engineer with background of working effectively in dynamic environments. Fluent in Java, Spring, AWS & Microservices. Experienced in software development within Banking & Insurance domains. Proud team player focused on achieving project objectives with speed and accuracy.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-shingate&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-shingate" /> </p>
 
